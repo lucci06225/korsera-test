@@ -1,2 +1,2 @@
-# korsera-test.github.io
+# korsera-test
 korsera repository
